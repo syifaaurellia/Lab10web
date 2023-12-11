@@ -71,7 +71,7 @@ Kelas : TI.22.A1
 > Output :
 ![1](https://github.com/syifaaurellia/Lab10web/assets/115867244/cac86ea0-dd5a-4822-bab4-26be5e96603b)
 
-> - **Class Library**
+- **Class Library**
 Class Library merupakan pustaka kode program yang dapat digunakan bersama pada beberapa file yang berbeda (konsep modularisasi). Class library menyimpan fungsi-fungsi atau class object komponen untuk memudahkan dalam proses development aplikasi.
 
 2. Buat file php baru dengan nama `form.php`
